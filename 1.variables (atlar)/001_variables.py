@@ -5,3 +5,6 @@ age = 19
 
 #bärde 'name' we 'age' bir bahanyň adyny aňladýar,
 #ýagny olar variable. 
+
+
+#menem uytgedip bilyanmi
